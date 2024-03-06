@@ -1,5 +1,5 @@
 #include <stdio.h>
-// REKÜSIF (ÖZYINELI) fonskýyonlar
+// REKÜSIF (ÖZYINELI) FONKSIYONLAR
 
 
 int yazdir (int n)
